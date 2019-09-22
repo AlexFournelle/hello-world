@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MyFirstGitHubApplication
 {
@@ -10,7 +7,8 @@ namespace MyFirstGitHubApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World")
+            Console.WriteLine("Hello World");
+            Console.Read(); // So as to keep the console open
         }
     }
 }
