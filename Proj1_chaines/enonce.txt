@@ -1,0 +1,17 @@
+Exercice 1  
+
+1.	Développer un algorithme qui demande à l'utilisateur de saisir un entier 
+	qui sera stocké dans une variable appelée repetition et qui affichera en 
+	sortie la figure suivante (le cas montré est pour une valeur de repetition 
+	= 4 ) :
+
+repetition =1
+*#
+repetition =2
+*# **#
+repetition =3
+*#**#***#
+repetition =4
+*#**#***#****#
+
+2.	Traduire l’algorithme en Java
