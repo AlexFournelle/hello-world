@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{664E2D6B-852B-4E11-880A-89FF9E696F57}</ProjectGuid>
+    <ProjectGuid>{DB2D4CDF-5DBB-4614-9566-185E5185B13C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MyFirstGitHubApplication</RootNamespace>
     <AssemblyName>MyFirstGitHubApplication</AssemblyName>
