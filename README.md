@@ -3,10 +3,10 @@ The obligatory noob repository
 
 Looking around to get a sense for how it all goes.  Only ever just messed with svn (not git) way too many years ago.
 
-MyFirstGitHubApplication
-	Ce que ça dit sur la boîte: ma première appli sur GitHub. Un Hello World des plus drabes. Hey, c'est aussi ma
-	première appli C#
+MyFirstGitHubApplication -
+	Ce que Ã§a dit sur la boÃ®te: ma premiÃ¨re appli sur GitHub. Un Hello World des plus drabes. Hey, c'est aussi ma
+	premiÃ¨re appli C#
 
-Proj1_chaines
-	Un premier exercice de java que je refais en C# question d'explorer ce langage. Il s'agit de générer une chaine 
-	répétitive de caractères # et * selon un entier reçu en paramètre (l'énoncé est dans le répertoire concerné)
+Proj1_chaines -
+	Un premier exercice de java que je refais en C# question d'explorer ce langage. Il s'agit de gÃ©nÃ©rer une chaine 
+	rÃ©pÃ©titive de caractÃ¨res # et * selon un entier reÃ§u en paramÃ¨tre (l'Ã©noncÃ© est dans le rÃ©pertoire concernÃ©)
