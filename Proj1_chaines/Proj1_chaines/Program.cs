@@ -8,7 +8,7 @@ namespace Proj1_chaines
     {
         public static void Main(string[] args)
         {
-            // Declaration de l'unique parametre
+            // Declaration de l'unique variable
             int repetition;
 
             // Saisie de la valeur de repetition
