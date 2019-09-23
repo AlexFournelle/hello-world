@@ -10,3 +10,6 @@ MyFirstGitHubApplication -
 Proj1_chaines -
 	Un premier exercice de java que je refais en C# question d'explorer ce langage. Il s'agit de générer une chaine 
 	répétitive de caractères # et * selon un entier reçu en paramètre (l'énoncé est dans le répertoire concerné)
+
+Proj2_nbConsecutifs -
+	Lire des nombres tant qu'ils sont consécutifs et n'ont pas la valeur 999
